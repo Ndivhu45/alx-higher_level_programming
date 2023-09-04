@@ -1,3 +1,9 @@
 #!/usr/bin/python3
-class Rectangle
+"""
+
+This module is composed by a function that adds two numbers
+
+"""
+class Rectangle:
+    """ Empty class """
     pass
